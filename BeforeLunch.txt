@@ -1,0 +1,169 @@
+0001 Espreso TV
+0002 UA:Pershyi
+0003 DIM TV
+0004 FOOTBALL 2 HD
+0005 2+2
+0006 1+1 Ukraine
+0007 indigo
+0008 Army TV
+0009 DW English HD
+0010 Channel 5 (Ukraine) HD
+0011 Svoboda / Holos Ameryky
+0012 Rozpakuy TV
+0013 ERC
+0014 VTV Romania
+0015 Rozpakuy TV
+0016 NADIYA
+0017 SONCE (UA)
+0018 New Christian
+0019 SONATA TV
+0020 /////PRYAMIY
+0021 Apostrophe TV
+0022 WE-UKRAINE
+0023 Espreso TV
+0024 Kyiv TV
+0025 The Word Network
+0026 TVGE Internacional
+0027 TBN Ukraine
+0028 SBN International
+0029 Visjon Heaven
+0030 DW Deutsch
+0031 BELSAT TV HD
+0032 STB HD
+0033 ICTV HD
+0034 NOVY CHANNEL HD
+0035 M1 HD
+0036 M2 HD
+0037 OCE HD
+0038 ICTV 2
+0039 Inter HD
+0040 NTN HD
+0041 MEGA HD
+0042 K1 HD
+0043 K2 HD
+0044 Z00M HD
+0045 PIXEL HD
+0046 Enter Film HD
+0047 INTER + HD
+0048 1+1
+0049 TET
+0050 Plus Plus
+0051 Bigudi
+0052 2+2
+0053 24 Kanal
+0054 Fauna
+0055 Nauka
+0056 Terra
+0057 Trofey
+0058 Unian TV
+0059 AVERS
+0060 Plus Plus
+0061 061 ATR
+0062 Unian TV
+0063 1+1 Ukraine
+0064 1+1 International
+0065 XSport
+0066 GALYCHYNA HD
+0067 1ZAHID HD
+0068 SUSPILNE SPORT
+0069 ChornomorskaTV
+0070 Beauty Trust Quality
+0071 PERSHYI HD
+0072 UA KULTURA
+0073 UA DONBAS
+0074 Karavan TV
+0075 Televsesvit
+0076 SuspilneNews
+0077 Channel 5 SD
+0078 Natali
+0079 MILADY TELEVISION
+0080 PROVENCE
+0081 Tuso
+0082 RADA HD
+0083 Eko TV
+0084 PRYAMIY SD
+0085 UA PERSHYI
+0086 UA KRYM
+0087 STARS.TV
+0088 4Fun.TV
+0089 4Fun Kids
+0090 4Fun Dance
+0091 Eska TV Extra
+0092 TVS
+0093 MY5 uzbekistan
+0094 GNC
+0095 TBN Russia
+0096 The Word Network
+0097 Eurasia Worldwide
+0098 Vidrodjennya
+0099 Al Aoula Inter HD
+0100 Laayoune TV HD
+0101 Al Aoula Inter
+0102 Arryadia HD
+0103 Athaqafia HD
+0104 Al Maghribia HD
+0105 Assadissa HD
+0106 Tamazight HD
+0107 UATV
+0108 Class TV Moda
+0109 Giornale Radio
+0110 LN24SA
+0111 Dla Ciebie TV
+0112 ByoBlu
+0113 Espresso TV
+0114 Rai Storia HD
+0115 Camera Deputati
+0116 Senato
+0117 Rai Scuola HD
+0118 ARTI TV
+0119 MC EU
+0120 MBS - Test 1
+0121 Jin TV
+0122 Can TV HD
+0123 Iran e Aryaee TV
+0124 MBS - Test 2
+0125 MBS - Test 3
+0126 MBS - Test 4
+0127 MBS - Test 5
+0128 MBS - Test 6
+0129 Kabelio Info
+0130 Bloomberg European TV
+0131 Al Jazeera English HD
+0132 Iran International
+0133 ARMPUB TV
+0134 WNS.TEL
+0135 Manoto
+0136 JSTV 2 HD
+0137 Al Karma TV-ME
+0138 Sender Neu Jerusalem
+0139 HADI TV 3
+0140 Radio Radio TV
+0141 Canale Italia 83
+0142 Canale Italia 84
+0143 Canale Italia
+0144 Canale Italia 2
+0145 TLC Telecampione
+0146 Arte Investimenti
+0147 Telecupole
+0148 Solo Calcio
+0149 Freedom TV
+0150 CBC Azerbaycan
+0151 YEMEN TV 83
+0152 Kurdsat SD 84
+0153 Medya Haber
+0154 Kentron TV
+0155 Iran International HD
+0156 NASA TV HD menti
+0157 RUDAW HD
+0158 Kurdistan 24 HD
+0159 Parole di Vita
+0160 NHK WORLD-JAPAN
+0161 Iraqia News HD
+0162 Qatar TV HD
+0163 TRT Arabi HD
+0164 Euronews English HD
+0165 Al Hiwar
+0166 TRT World HD
+0167 BAHRAIN TV
+0168 France 24 HD (en Francais)
+0169 France 24 HD (in English)
